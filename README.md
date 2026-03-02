@@ -2,16 +2,16 @@
 
 简短有力的项目一句话介绍（尽量控制在 12-18 个汉字或 60 个英文字符以内）
 
-![GitHub license](https://img.shields.io/github/license/你的用户名/你的仓库名?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/你的用户名/你的仓库名?style=flat-square&color=important)
-![GitHub forks](https://img.shields.io/github/forks/你的用户名/你的仓库名?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/你的用户名/你的仓库名?style=flat-square)
+![GitHub license](https://img.shields.io/github/license/Comet966/Notes-for-Communication-Principles?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/Comet966/Notes-for-Communication-Principles?style=flat-square&color=important)
+![GitHub forks](https://img.shields.io/github/forks/Comet966/Notes-for-Communication-Principles?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/Comet966/Notes-for-Communication-Principles?style=flat-square)
 
-## ✨ 功能亮点
+## ✨ 简介
 
-- 特性1：一句话描述这个功能有多方便
+- 对通信原理(Communication Principles)的个人笔记以供学习和参考
 - 特性2：突出性能/简单/优雅/跨平台等卖点
-- 特性3：解决了一个常见的痛点（越具体越好）
+- 特性3：解决了一个常见的痛点
 
 ## 快速开始（30秒上手）
 
